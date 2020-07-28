@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Hind Siliguri';
+  src: url("../fonts/Hind_siliguri/HindSiliguri-Regular.woff2") format("woff2"), url("../fonts/Hind_siliguri/HindSiliguri-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Hind Siliguri';
+  src: url("../fonts/Hind_siliguri/HindSiliguri-Medium.woff2") format("woff2"), url("../fonts/Hind_siliguri/HindSiliguri-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal; }
+@font-face {
+  font-family: 'Hind Siliguri';
+  src: url("../fonts/Hind_siliguri/HindSiliguri-Light.woff2") format("woff2"), url("../fonts/Hind_siliguri/HindSiliguri-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
+@font-face {
+  font-family: 'Hind Siliguri';
+  src: url("../fonts/Hind_siliguri/HindSiliguri-SemiBold.woff2") format("woff2"), url("../fonts/Hind_siliguri/HindSiliguri-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal; }
+@font-face {
+  font-family: 'Hind Siliguri';
+  src: url("../fonts/Hind_siliguri/HindSiliguri-Bold.woff2") format("woff2"), url("../fonts/Hind_siliguri/HindSiliguri-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal; }
